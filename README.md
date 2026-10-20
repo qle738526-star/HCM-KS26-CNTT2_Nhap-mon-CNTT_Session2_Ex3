@@ -29,7 +29,7 @@ Tắt bớt tab chưa dùng hoặc bật tính năng Memory Saver trong Chrome.
 
 Mở Task Manager -> Chọn Chrome chiếm nhiều RAM -> Bấm End Task.
 
-Nhấn Shift + Esc ngay trong Chrome để tắt trực tiếp các tab nặng.
+Nhấn shift + esc ngay trong Chrome để tắt trực tiếp các tab nặng.
 
 PHẦN 2: BÁO CÁO CHẨN ĐOÁN (TASK MANAGER)
 
@@ -37,4 +37,4 @@ Thông số: %CPU: 45% (Bình thường) | %RAM: 98% (Quá tải) | %Disk: 100% 
 
 Nguyên nhân: RAM quá tải buộc Windows dùng HDD làm bộ nhớ ảo, kéo theo HDD bị nghẽn 100%.
 
-Khuyến nghị: Tắt bớt tab ngầm ngay (trước mắt); nâng cấp lên SSD NVMe và gắn thêm RAM (lâu dài).
+Khuyến nghị: Tắt bớt tab ngầm ngay; nâng cấp lên SSD NVMe và gắn thêm RAM (lâu dài).
